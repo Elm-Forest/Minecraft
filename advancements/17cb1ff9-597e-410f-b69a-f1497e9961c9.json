@@ -1619,5 +1619,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-06-16 19:32:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-06-16 19:24:52 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
