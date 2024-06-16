@@ -1601,6 +1601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-06-16 12:56:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-06-16 12:57:28 +0800"
@@ -1610,12 +1616,6 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-06-16 12:57:28 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-06-16 12:56:34 +0800"
     },
     "done": true
   },
